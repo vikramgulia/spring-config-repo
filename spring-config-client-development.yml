@@ -1,4 +1,2 @@
-app:
-  name: spring-config-client
 default:
   greeting: Stranger
